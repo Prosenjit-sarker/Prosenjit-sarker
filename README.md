@@ -1,80 +1,172 @@
-<h1 align="center">Hi 👋, I'm Prosenjit Sarker</h1>
-<h3 align="center">Flutter Developer | Mobile App Enthusiast | UI Lover</h3>
+<h1 align="center">Hey 👋, I'm Prosenjit Sarker</h1>
+
+<h3 align="center">
+Flutter Developer • Mobile App Enthusiast • UI/UX Lover
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prosenjit-99&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Cross+Platform+App+Builder;Clean+UI+%26+Modern+Design;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prosenjit-99&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 💙 Passionate about building beautiful cross-platform mobile applications using Flutter
-- 🌱 Currently improving my skills in Flutter, Firebase & App Architecture
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🔭 Currently working on **Flutter Mobile Applications**
+- 🌱 Learning advanced **Flutter & Firebase**
 - 💬 Ask me about **Flutter, Dart, Firebase, React**
-- 🎯 Focused on creating responsive and modern UI/UX
-- 📫 Reach me at: **prosenjitsarker.cse@gmail.com**
+- 🎯 Focused on creating **beautiful & responsive UI**
+- ⚡ Love building modern mobile experiences
+- 📫 Email: **prosenjitsarker.cse@gmail.com**
+
+<br>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/prosenjit-sarker-83872a293/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
 </a>
+
 <a href="https://www.facebook.com/prosenjit.sarker143/" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="45" />
+  <img src="https://skillicons.dev/icons?i=facebook" height="55" />
 </a>
+
 <a href="https://www.instagram.com/nxt_prosenjit/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  <img src="https://skillicons.dev/icons?i=instagram" height="55" />
+</a>
+
+<a href="https://wa.me/8801XXXXXXXXX" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" height="55" />
 </a>
 </p>
 
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,js,html,css,python,c,git,androidstudio,vscode" />
+<p align="center">
+  <a href="https://wa.me/8801XXXXXXXXX">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Tech Stack
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prosenjit-99&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosenjit-99&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,js,html,css,python,c,git,github,vscode,androidstudio" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prosenjit-99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosenjit-99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=prosenjit-99&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=prosenjit-99&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prosenjit-99&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prosenjit-99&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
-## ✨ Featured Projects
+# ✨ Featured Projects
 
-- 🎬 Movie Review App using Flutter & Free API
-- 💰 Income & Expense Management App
-- 🚗 Vehicular & Number Plate Detection System
-- 📱 Responsive Flutter UI Projects
+<table>
+<tr>
+<td width="50%">
+
+### 🎬 Movie Review App
+Flutter app using Movie API with modern UI.
+
+</td>
+
+<td width="50%">
+
+### 💰 Expense Tracker
+Income & balance management system.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚗 Vehicle Detection System
+YOLO based vehicle & number plate detection.
+
+</td>
+
+<td width="50%">
+
+### 📱 Flutter UI Projects
+Responsive & animated mobile interfaces.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+# ☄️ Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prosenjit-99&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 💻 Fun Code
 
 ```dart
-while(!success){
-   keepLearning();
+class Developer {
+  
+  String name = "Prosenjit Sarker";
+
+  List skills = [
+    "Flutter",
+    "Firebase",
+    "React",
+    "UI/UX"
+  ];
+
+  void work() {
+    while(true) {
+      learn();
+      build();
+      grow();
+    }
+  }
 }
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+</p>
