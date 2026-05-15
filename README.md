@@ -1,26 +1,80 @@
 <h1 align="center">Hi 👋, I'm Prosenjit Sarker</h1>
-<h3 align="center">A passionate Mobile App developer(Flutter)</h3>
+<h3 align="center">Flutter Developer | Mobile App Enthusiast | UI Lover</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prosenjit-99&label=Profile%20views&color=0e75b6&style=flat" alt="prosenjit-99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prosenjit-99" alt="prosenjit-99" /></a> </p>
-
-- 💬 Ask me about **Flutter,React**
-
-- 📫 How to reach me **prosenjitsarker.cse@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prosenjit-sarker-83872a293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prosenjit-sarker-83872a293/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/prosenjit.sarker143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/prosenjit.sarker143/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nxt_prosenjit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nxt_prosenjit/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prosenjit-99&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prosenjit-99&show_icons=true&locale=en&layout=compact" alt="prosenjit-99" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prosenjit-99&show_icons=true&locale=en" alt="prosenjit-99" /></p>
+- 💙 Passionate about building beautiful cross-platform mobile applications using Flutter
+- 🌱 Currently improving my skills in Flutter, Firebase & App Architecture
+- 💬 Ask me about **Flutter, Dart, Firebase, React**
+- 🎯 Focused on creating responsive and modern UI/UX
+- 📫 Reach me at: **prosenjitsarker.cse@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prosenjit-99&" alt="prosenjit-99" /></p>
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/prosenjit-sarker-83872a293/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+<a href="https://www.facebook.com/prosenjit.sarker143/" target="_blank">
+<img src="https://skillicons.dev/icons?i=facebook" height="45" />
+</a>
+<a href="https://www.instagram.com/nxt_prosenjit/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,js,html,css,python,c,git,androidstudio,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prosenjit-99&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosenjit-99&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=prosenjit-99&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prosenjit-99&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## ✨ Featured Projects
+
+- 🎬 Movie Review App using Flutter & Free API
+- 💰 Income & Expense Management App
+- 🚗 Vehicular & Number Plate Detection System
+- 📱 Responsive Flutter UI Projects
+
+---
+
+## ⚡ Fun Fact
+
+```dart
+while(!success){
+   keepLearning();
+}
