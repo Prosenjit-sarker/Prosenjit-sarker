@@ -33,19 +33,17 @@ Flutter Developer • Mobile App Enthusiast • UI/UX Designer
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prosenjit-sarker-83872a293/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.facebook.com/prosenjit.sarker143/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="45"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/nxt_prosenjit/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-</a>
-
-<a href="https://wa.me/8801XXXXXXXXX" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 </p>
 
