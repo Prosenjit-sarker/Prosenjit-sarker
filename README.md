@@ -128,7 +128,7 @@ Responsive and animated Flutter application designs.
 # ⚡ Developer Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img width="80%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
